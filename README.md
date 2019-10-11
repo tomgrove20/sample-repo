@@ -6,7 +6,8 @@ This is a sample repo to learn how to use Github. The research question we are i
 
 This repository will contain the following:
 
--Code folder
--Data folder
--Intermediate products folder
--Final products folder
+- [Code folder](code)
+- [Data folder](data)
+- [Intermediate products folder](intermediate-products)
+- [Final products folder](final-products)
+
